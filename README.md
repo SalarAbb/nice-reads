@@ -15,7 +15,7 @@ After reading this paper you should know:
 
 This paper introduces the reparameterization trick which enables computing gradient of the parameters of the posterior distribution on a expectation operator of any function of posterior distribution. After reading this paper you should know:
 
-* A sample usage of variational inference to estimate an intractable distribution?
+* A sample usage of variational inference to estimate an intractable distribution? Also see Diederik Kingma's great [PhD Thesis](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0)
 * What is the cost function when the prior distibution of the latent variable is assumed to be Gaussian?
 * What does each component of the cost function mean? -very important
 * What is reparameterization trick? Why do we even need it? Why does it work?
