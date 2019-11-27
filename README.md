@@ -7,7 +7,7 @@ Here, I provide some papers that talk about variational inference, why we need i
 
 After reading this paper you should know:
 * What is variational inference?
-* How and why do we even need variational inference?
+* Why do we even need variational inference and how we use it?
 * What is the evidence lower bound? The intution behind its components? More to think: what is the relationship between the evidence lower bound and expectation-maximization (EM) algorithm?
 * What is mean-field approximation?
 
