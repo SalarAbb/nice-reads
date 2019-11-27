@@ -1,7 +1,7 @@
 # nice-reads
 
 ## Variational inference, idea and methods 
-Here, I provide some papers that talk about variational inference; why do we need it and how do we use it? 
+Here, I provide some papers about variational inference; why do we need it and how do we use it? 
 
 ### 1. [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - a review paper on variational inference. 
 
