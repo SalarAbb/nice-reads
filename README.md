@@ -32,7 +32,7 @@ After reading this papers you should know:
 * How papers 1 and 2 were used in building the model structure and algorithm?
 * What are the ways to improve on these papers and many other similar papers?
 
-### 4. Some papers that use variational inference to disentangle the latent factor representation. These are example on how we manipulate and inject our knowledge to the cost function in the variational method to enforce the latent representation to have specific characteristics. 
+### 4. Some papers which use variational inference to disentangle the latent factor representation. These are examples on how we manipulate the latent factors and inject our knowledge to the cost function within variational methods to enforce the latent representation to have specific characteristics. 
 
  - 4.1. [β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK](https://openreview.net/pdf?id=Sy2fzU9gl)
 
