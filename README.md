@@ -29,7 +29,7 @@ This paper introduces the reparameterization trick which enables computing gradi
 
 After reading this papers you should know:
 
-* How papers 1 and 2 were used in building structure of the model algorithm?
+* How papers 1 and 2 were used in building the model structure and algorithm?
 * What are the ways to improve on these papers and many other similar papers?
 
 4. Some papers that use variational inference to disentangle the latent factor representation. These are example on how we manipulate and inject our knowledge to the cost function in the variational method to enforce the latent representation to have specific characteristics. 
@@ -42,5 +42,5 @@ After reading this papers you should know:
 
 After reading this papers you should know:
 
-* How paper 2 were modified in building structure of the model algorithm? Where do we inject our knowledge to make the network learn better (or of interest) representations?
+* How paper 2 were modified in building the model structure and algorithm? Where do we inject our knowledge to make the network learn better (or of interest) representations?
 * What are the ways to improve on these papers and many other similar papers?
