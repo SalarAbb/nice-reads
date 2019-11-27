@@ -8,7 +8,7 @@ Here, I provide some papers that talk about variational inference; why do we nee
 After reading this paper you should know:
 * What is variational inference?
 * Why do we even need variational inference and how do we use it?
-* What is the evidence lower bound? The intution behind its components? More to think: what is the relationship between the evidence lower bound and expectation-maximization (EM) algorithm?
+* What is the evidence lower bound? The intution behind its components? More to think: what is the relationship between the evidence lower bound and expectation-maximization (EM) algorithm? Also see Matthew Beal's great [PhD thesis](https://cse.buffalo.edu/faculty/mbeal/papers/beal03.pdf) 
 * What is mean-field approximation?
 
 ### 2. [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) - A nice usage of variatonal inference introducing reparametrization trick.
@@ -21,7 +21,7 @@ This paper introduces the reparameterization trick which enables computing gradi
 * What is reparameterization trick? Why do we even need it? Why does it work?
 * Understand the variational auto encoder deeply as it is the foundation of many consecutive papers. 
 
-### 3. Some papers which use variational inference to learn nonlinear dynamics and emission models in sequential data
+### 3. Some papers which use variational inference to learn nonlinear dynamics and emission models in sequential data.
 
  - 3.1. [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
 
