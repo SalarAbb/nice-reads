@@ -3,7 +3,7 @@
 ## Variational inference, idea and methods 
 Here, I provide some papers that talk about variational inference; why do we need it and how do we use it? 
 
-1. [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - a review paper on variational inference. 
+### 1. [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - a review paper on variational inference. 
 
 After reading this paper you should know:
 * What is variational inference?
@@ -11,7 +11,7 @@ After reading this paper you should know:
 * What is the evidence lower bound? The intution behind its components? More to think: what is the relationship between the evidence lower bound and expectation-maximization (EM) algorithm?
 * What is mean-field approximation?
 
-2. [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) - A nice usage of variatonal inference introducing reparametrization trick.
+### 2. [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) - A nice usage of variatonal inference introducing reparametrization trick.
 
 This paper introduces the reparameterization trick which enables computing gradient of the parameters of the posterior distribution on a expectation operator of any function of posterior distribution. After reading this paper you should know:
 
@@ -21,7 +21,7 @@ This paper introduces the reparameterization trick which enables computing gradi
 * What is reparameterization trick? Why do we even need it? Why does it work?
 * Understand the variational auto encoder deeply as it is the foundation of many consecutive papers. 
 
-3. Some papers that use variational inference to learn nonlinear dynamics and emmission in sequential data
+### 3. Some papers which use variational inference to learn nonlinear dynamics and emission models in sequential data
 
  - 3.1. [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
 
@@ -32,7 +32,7 @@ After reading this papers you should know:
 * How papers 1 and 2 were used in building the model structure and algorithm?
 * What are the ways to improve on these papers and many other similar papers?
 
-4. Some papers that use variational inference to disentangle the latent factor representation. These are example on how we manipulate and inject our knowledge to the cost function in the variational method to enforce the latent representation to have specific characteristics. 
+### 4. Some papers that use variational inference to disentangle the latent factor representation. These are example on how we manipulate and inject our knowledge to the cost function in the variational method to enforce the latent representation to have specific characteristics. 
 
  - 4.1. [β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK](https://openreview.net/pdf?id=Sy2fzU9gl)
 
