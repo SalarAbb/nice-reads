@@ -21,9 +21,9 @@ This paper introduces the reparameterization trick which enables computing gradi
 
 3. Some papers that use variational inference to learn nonlinear dynamics and emmission in sequential data
 
-[Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
+ - 3.1. [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
 
-[A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning](https://arxiv.org/pdf/1710.05741.pdf)
+ - 3.2. [A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning](https://arxiv.org/pdf/1710.05741.pdf)
 
 After reading this papers you should know:
 
