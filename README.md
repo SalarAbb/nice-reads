@@ -13,24 +13,24 @@ Here, I provide pointers to keep updated with the progress in ML and AI.
 * [BAIR](https://bair.berkeley.edu/blog/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 * [MLCMU](https://blog.ml.cmu.edu/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 
-## Cheat Sheets
-
+## Study material
+Some of the study materials are quick cheat sheets. The point of these cheat sheets is to brush up your memory on these topics; memorizing the formulas/conclusions are highly discouraged :D. Instead, we'd like to understand the fundamentals. Please only use the cheat sheets for quick review of the material.
 ### 1. Probability & statistics
-* [CME106](https://stanford.edu/~shervine/teaching/cme-106/)
+* [CME106 cheat sheet](https://stanford.edu/~shervine/teaching/cme-106/)
 
 ### 2. Machine learning
-* [CS229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+* [CS229  cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 ### 3. Artificial Intelligence
-* [CS221](https://stanford.edu/~shervine/teaching/cs-221/)
+* [CS221 cheat sheet](https://stanford.edu/~shervine/teaching/cs-221/)
 ### 4. Deep learning
-* [CS230](https://stanford.edu/~shervine/teaching/cs-230/)
+* [CS230 cheat sheet](https://stanford.edu/~shervine/teaching/cs-230/)
 ### 5. Vaious data science materials
 * [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 ### 6. Python/coding
-I'm personally against cheat sheets to learn coding/programming languages, you only learn them by writing codes for problems/projects :). The point is not memorizing syntaxes, we can always look up for them. This is only meant to quickly brush up on various packages/languages. 
-* [matplotlib](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
-* [SQL](https://learnsql.com/blog/sql-basics-cheat-sheet/)
-* [pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
+I'm personally against cheat sheets to learn coding/programming languages, you only learn them by writing codes for problems/projects :). The point is not memorizing syntaxes, we can always look them up. The cheat sheets are only meant for quick reviews. 
+* [matplotlib cheat sheet](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
+* [SQL cheat sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+* [pandas cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 
 ## Variational inference, idea and methods 
 Here, I provide some papers about variational inference; why do we need it and how do we use it? 
