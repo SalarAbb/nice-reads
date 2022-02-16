@@ -27,7 +27,7 @@ Here, I provide pointers to keep updated with the progress in ML and AI.
 ### 5. Vaious data science materials
 * [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 ### 6. Python/coding
-I'm personally against cheat sheets for coding problems, you only learn these packages by using them in various projects :). This is only meant to brush up the mind on various packages/languages. 
+I'm personally against cheat sheets to learn coding/programming languages, you only learn them by writing codes for problems/projects :). The point is not memorizing syntaxes, we can always look up for them. This is only meant to quickly brush up on various packages/languages. 
 * [matplotlib](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 * [SQL](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 * [pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
