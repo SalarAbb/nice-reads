@@ -6,9 +6,9 @@ Here, I provide pointers to keep updated with the progress in ML and AI.
 ### 2. [Distill](https://distill.pub/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow) - includes clean & nice tutorial on various subjects - few posts but super high quality
 ### 3. [Google AI blog](https://ai.googleblog.com/) - a list of recent projects/publications at Google AI
 ### 4. [Amazon's science blog](https://www.amazon.science/blog?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine+learning+blog&utm_content=machine+learning+blog&f0=0000016e-2ff1-d205-a5ef-aff9651e0000&s=0) - a list of recent projects/publications at Amazon
-### 5. [Eric Jang's Blog](https://blog.evjang.com/) - amazing posts on various topics - few posts but high quality
-### 6. [Lilian weng's Blog](https://lilianweng.github.io/lil-log/) - amazing posts on various topics - few posts but high quality
-### 7. [Chris Olah's Blog](https://colah.github.io/about.html) - amazing posts on various topics - few posts but high quality
+### 5. [Eric Jang's blog](https://blog.evjang.com/) - amazing posts on various topics - few posts but high quality
+### 6. [Lilian weng's blog](https://lilianweng.github.io/lil-log/) - amazing posts on various topics - few posts but high quality
+### 7. [Chris Olah's blog](https://colah.github.io/about.html) - amazing posts on various topics - few posts but high quality
 ### 8. AI research groups in various universities
 * [BAIR](https://bair.berkeley.edu/blog/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 * [MLCMU](https://blog.ml.cmu.edu/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
