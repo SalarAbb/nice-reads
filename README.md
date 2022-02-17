@@ -9,7 +9,9 @@ Here, I provide pointers to keep updated with the progress in ML and AI.
 ### 5. [Eric Jang's blog](https://blog.evjang.com/) - amazing posts on various topics - few posts but high quality
 ### 6. [Lilian weng's blog](https://lilianweng.github.io/lil-log/) - amazing posts on various topics - few posts but high quality
 ### 7. [Chris Olah's blog](https://colah.github.io/about.html) - amazing posts on various topics - few posts but high quality
-### 8. AI research groups in various universities
+### 8. [Machine learning is fun](https://www.machinelearningisfun.com/) - various posts, might require Medium membership
+### 9. [Machine learning mastery](https://machinelearningmastery.com/blog/) - A lot of posts
+### 10. AI research groups in various universities
 * [BAIR](https://bair.berkeley.edu/blog/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 * [MLCMU](https://blog.ml.cmu.edu/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 
