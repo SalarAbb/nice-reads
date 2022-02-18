@@ -26,6 +26,8 @@ Some of the study materials are quick cheat sheets. The point of these cheat she
 * [CS221 cheat sheet](https://stanford.edu/~shervine/teaching/cs-221/)
 ### 4. Deep learning
 * [CS230 cheat sheet](https://stanford.edu/~shervine/teaching/cs-230/)
+* [CMU DL course](https://deeplearning.cs.cmu.edu/S22/index.html)
+* [Stanford DL course](https://cs230.stanford.edu/)
 ### 5. Vaious data science materials
 * [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 ### 6. Python/coding
